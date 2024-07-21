@@ -2,3 +2,6 @@
 adding the first line of text from the child branch
 adding the line from the remote branch_1
 adding the line from the branch_1 locally
+
+
+this is teja adding locally this line to the branch_1 of the remote through the git push branch branch
