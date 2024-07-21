@@ -1,2 +1,3 @@
 
 adding the first line of text from the child branch
+adding the line from the remote branch_1
